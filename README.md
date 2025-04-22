@@ -4,11 +4,11 @@ I'm a Computational Engineer passionate about solving real-world engineering pro
 I enjoy bridging the gap between physics-based simulations and practical engineering design — always aiming to improve performance, safety, and efficiency through data-driven analysis.
 
 ## 🚀 Technical Competence
-- 🏗️ Structural Simulation: FEM-based fatigue analysis, crashworthiness, structural-acoustic coupling
+- 🏗️ Structural Simulation: FEM-based fatigue analysis, crashworthiness (LS-DYNA), structural-acoustic coupling (Abaqus)
 - ⚙️ Multi-Body Dynamics (MBD): Flexible body integration, load path analysis (Simpack, Adams)
 - 🎯 CAD & Design: CATIA, Siemens NX, Inventor | Design for manufacturability and assembly (DFMA)
 - 📊 Scripting & Automation: Python, MATLAB | Automation of simulation workflows and data processing
-- 💻 Solver Logic & Algorithm Development: Numerical methods for PDEs, energy-conserving integrators (AVI)
+- 💻 Solver Logic & Algorithm Development: Numerical methods for PDEs, energy-conserving integrators in FEniCS
 
 
 ## 📌 Master Thesis Project
